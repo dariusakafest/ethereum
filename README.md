@@ -1,4 +1,4 @@
-#Test server on GO and client on React with Next.js
+# Test server on GO and client on React with Next.js
 
 1. Installation Go
 
