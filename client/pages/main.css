@@ -1,0 +1,15 @@
+.card
+{
+    margin-bottom: 20px;
+}
+
+.logo
+{
+    text-transform: uppercase;
+    color: #8992b1;
+}
+
+.logo span
+{
+    color: #61678e;
+}
