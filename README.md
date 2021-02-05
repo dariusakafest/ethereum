@@ -29,3 +29,11 @@ After successful installation you can run app via console command:
 Client app will be available on web addess: 
 
 http://localhost:3000
+
+3. Run client in Docker
+
+Install docker:
+
+Command for run:
+
+`sudo docker run --name react-client -p 0.0.0.0:3000:3000 react-client`
