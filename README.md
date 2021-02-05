@@ -30,10 +30,16 @@ Client app will be available on web addess:
 
 http://localhost:3000
 
-3. Run client in Docker
+3. Run client on react in Docker
 
 Install docker:
 
+https://docs.docker.com/get-docker/
+
+Command for build:
+
+`sudo docker build . -t react-client`
+
 Command for run:
 
-`sudo docker run --name react-client -p 0.0.0.0:3000:3000 react-client`
+`sudo docker run -d --name react-client -p 0.0.0.0:3000:3000 react-client`
