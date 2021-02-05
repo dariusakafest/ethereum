@@ -11,7 +11,7 @@ Build app via console command in 'go' folder:
 
 Run your binary app. App will available on web address:
 
-`http://localhost:8000`
+http://localhost:8000
 
 2. Installation Node.Js
 
@@ -26,4 +26,6 @@ After successful installation you can run app via console command:
 
 `npm run dev`
 
-Client app will be available on web addess: http://localhost:3000
+Client app will be available on web addess: 
+
+http://localhost:3000
